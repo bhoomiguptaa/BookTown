@@ -1,6 +1,6 @@
 # 📚 BookTown
 
-🚀 **Live Demo:** [https://sparkly-pika-415288.netlify.app](https://sparkly-pika-415288.netlify.app)
+🔗 **Live Demo:** [zingy-parfait-6c9e23.netlify.app](https://zingy-parfait-6c9e23.netlify.app)
 
 **BookTown** is a fully responsive and user-friendly website for exploring and purchasing books. It was developed using **HTML**, **CSS**, **Bootstrap**, and **vanilla JavaScript**. Users can browse a wide selection of books, search, manage their cart, and simulate a checkout experience.
 
